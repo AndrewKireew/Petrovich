@@ -1,0 +1,140 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Settings>
+    <Version>2.6.0</Version>
+    <Guild>406840993535492109</Guild>
+    <Token>top secret token</Token>
+    <Prefix>!</Prefix>
+    
+    <BotRole>435393449605464074</BotRole>
+    <DonatorSpacerRole>714897742098464819</DonatorSpacerRole>
+
+    <OkEmoji>✅</OkEmoji>
+    <ErrorEmoji>⛔</ErrorEmoji>
+    
+    <RolesChannel>474870448157491200</RolesChannel>
+
+    <AutocreateSloopCategory>701810273060913202</AutocreateSloopCategory>
+    <AutocreateBrigantineCategory>795684918058811402</AutocreateBrigantineCategory>
+    <AutocreateGalleonCategory>795684955584856104</AutocreateGalleonCategory>
+    <AutocreateGalleon>533876650371186698</AutocreateGalleon>
+    <AutocreateBrigantine>000000000000000000</AutocreateBrigantine>
+    <AutocreateSloop>111111111111111111</AutocreateSloop>
+    <AutocreateSymbol>⛵</AutocreateSymbol>
+    <Bitrate>48000</Bitrate>
+    <FastCooldown>30</FastCooldown>
+    <WaitingRoom>496614051728588804</WaitingRoom>
+    <SupportCategory>775323508330594305</SupportCategory>
+
+    <FleetCategory>699687487743721503</FleetCategory>
+    <FleetChillChannel>699688642238611531</FleetChillChannel>
+    <FleetLobby>699688711226392657</FleetLobby>
+    <FleetUserLimiter>5</FleetUserLimiter>
+    
+    <ShipXML>ships.xml</ShipXML>
+    <PrivateCategory>435448014614822923</PrivateCategory>
+    <PrivateRequestsChannel>459986453972123658</PrivateRequestsChannel>
+    <MaxPrivateShips>3</MaxPrivateShips>
+    
+    <DonatorXML>donators.xml</DonatorXML>
+    <DonatorRole>459649927732133888</DonatorRole>
+    <DonatorChannel>648832699200569345</DonatorChannel>
+    <DonatorMessage>558231268773593098</DonatorMessage>
+
+    <InviterXML>inviters.xml</InviterXML>    
+    <InvitesLeaderboardChannel>700716645290868846</InvitesLeaderboardChannel>
+    
+    <WarningsXML>warnings.xml</WarningsXML>
+    <ModlogChannel>479674576369090560</ModlogChannel>
+    <FulllogChannel>479674700218499072</FulllogChannel>
+    <AutoclearLogChannel>730788331796824065</AutoclearLogChannel>
+    <UserlogChannel>481316315215429672</UserlogChannel>
+    <ErrorLog>672017814932029461</ErrorLog>
+    
+    <BanXML>bans.xml</BanXML>
+	
+    <UsersLeftXML>usersleft.xml</UsersLeftXML>
+    
+    <IgnoredChannels>
+        479674576369090560,
+        479674700218499072,
+        481316315215429672,
+        480288816297672705,        
+    </IgnoredChannels>
+    
+    <AdminRoles>
+        406849001611067393,
+        406850194983092224,
+        435393449605464074,
+        514282258958385152,
+    </AdminRoles>
+
+    <ModeratorsRole>701810271949291549</ModeratorsRole>
+	
+    <Developer>261137595965243393</Developer>
+
+    <ReportsXML>reports.xml</ReportsXML>
+    
+    <CodexMessageId>705394424468865044</CodexMessageId>
+    <CodexReserveChannel>727209699010674788</CodexReserveChannel>
+    <CodexRole>701810271940903018</CodexRole>
+  
+    <FleetCreationChannel>722235811722035201</FleetCreationChannel>
+    <FleetCodexMessageId>722059329305444423</FleetCodexMessageId>
+    <FleetCodexRole>701810271945228358</FleetCodexRole>
+    <FleetCaptainRole>722060809269805126</FleetCaptainRole>
+
+    <FleetLogCategory>765280840757674014</FleetLogCategory>
+    <FleetLogChannel>765281008483958824</FleetLogChannel>
+
+    <MuteRole>707563567930671114</MuteRole>
+    <VoiceMuteRole>742090323244744814</VoiceMuteRole>
+
+    <EmissaryMessageId>703926358182592553</EmissaryMessageId>
+    <EmissaryGoldhoadersRole>703929000711553074</EmissaryGoldhoadersRole>
+    <EmissaryTradingCompanyRole>703929010190811157</EmissaryTradingCompanyRole>
+    <EmissaryOrderOfSoulsRole>703929012036304948</EmissaryOrderOfSoulsRole>
+    <EmissaryAthenaRole>703929013625815123</EmissaryAthenaRole>
+    <EmissaryReaperBonesRole>703929015181901885</EmissaryReaperBonesRole>
+    <HuntersRole>706860192133939213</HuntersRole>
+    <ArenaRole>706856460952403979</ArenaRole>
+
+    <FindChannel>701810272427442305</FindChannel>
+
+    <PriceListXML>prices.xml</PriceListXML>
+
+    <UsersLeftXML>usersleft.xml</UsersLeftXML>
+
+    <LeftReportsXML>leftreports.xml</LeftReportsXML>
+
+    <AttachmentsLog>736006872997429349</AttachmentsLog>
+    <VotesXML>votes.xml</VotesXML>
+    <NotesXML>notes.xml</NotesXML>
+
+    <SubscriberXML>subscribers.xml</SubscriberXML>
+
+    <TopMonthRole>749003259196211391</TopMonthRole>
+
+
+    <DatabaseHost>DB_IP</DatabaseHost>
+    <DatabaseName>DB_NAME</DatabaseName>
+    <DatabaseUser>DB_USER</DatabaseUser>
+    <DatabasePassword>DB_PASS</DatabasePassword>
+
+    <ThumbnailFull>https://cdn.discordapp.com/attachments/736006872997429349/772920756937162772/Full.png</ThumbnailFull>
+    <ThumbnailOne>https://cdn.discordapp.com/attachments/736006872997429349/772920731754823680/1.gif</ThumbnailOne>
+    <ThumbnailTwo>https://cdn.discordapp.com/attachments/736006872997429349/772920822771089428/2.gif</ThumbnailTwo>
+    <ThumbnailThree>https://cdn.discordapp.com/attachments/736006872997429349/772920778009477140/3.gif</ThumbnailThree>
+    <ThumbnailNA>https://cdn.discordapp.com/attachments/736006872997429349/773485269843313650/NA.png</ThumbnailNA>
+    <ThumbnailRaid>https://cdn.discordapp.com/attachments/736006872997429349/773485265058660352/Raid.png</ThumbnailRaid>
+
+    <FleetDateOffset>1</FleetDateOffset>
+    <FleetVoiceTimeOffset>3</FleetVoiceTimeOffset>
+    
+    <FleetVotingMessage>792907695630975006</FleetVotingMessage>
+    <BrigEmoji>791712089692962848</BrigEmoji>
+    <GalleonEmoji>791712089974374420</GalleonEmoji>
+
+    <RainbowCooldown>60</RainbowCooldown>
+
+    <ShipNamesCSV>data/ship_names.csv</ShipNamesCSV>
+</Settings>
